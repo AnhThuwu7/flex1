@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    gap: 20px;
+}
+.link{
+    border: 1px solid rgb(248, 121, 143); 
+
+    border-radius: 30cm;
+     background-color: rgb(248, 121, 143);
+    width: 100px;
+    height: 30px;
+    text-decoration:none ;
+    color: black;
+    text-align: center;
+    align-content: center;
+}
+a:hover{
+    color: rgb(241, 241, 245);
+    background-color: rgb(139, 71, 199);
+}
